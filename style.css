@@ -1,3 +1,31 @@
+body{
+    font-family: 'Franklin Gothic Light';
+}
+
+
 .home-page{
-    background-color: rgb(199, 255, 252)
+    background-color: #2cf0f0
+}
+.fact-page{
+    background-color: #ffaafb;
+}
+
+.navbar{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 2%;
+}
+.navbar a{
+    font-size: large;
+    text-decoration: none;
+}
+    
+.home-content-div{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium';
+}    
+.home-content-div p{
+    font-size: small;
 }
