@@ -9,7 +9,9 @@ body{
 .fact-page{
     background-color: #ffaafb;
 }
-
+.gallery-page{
+    background-color: antiquewhite;
+}
 .navbar{
     background-color: white;
     display: flex;
@@ -28,4 +30,30 @@ body{
 }    
 .home-content-div p{
     font-size: small;
+}
+
+.facts-content-div{
+    margin-left: 10%;
+}
+
+.facts-content-div li{
+    font-size: large;
+}
+
+
+.gallery-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gallery-content button{
+    border-radius: 30%;
+    padding: 1%;
+    margin: 1%;
+    background-color: rgb(170,168,168);
+    border-color: rgb(154,152,152);
+    font-weight: bold;
+    font-size: X-large;
+    height: 1%;
 }
