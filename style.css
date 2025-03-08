@@ -5,10 +5,19 @@ body{
 
 .home-page{
     background-color: #2cf0f0
+    background-image: url("https://play-lh.googleusercontent.com/mCvI8V0ZZeR2xEQE62Gdpi2ArcT-VN6YP35J5xUG1fnII9ZQCLYOFZpg7cbay3s-W1I=w648-h364-rw");
+    background-repeat: no-repeat; 
+    background-size: cover;
+    color: white
+    
+   
+    
 }
 .fact-page{
     background-color: #ffaafb;
-}
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLObwhHUUJG8BHwk34kGfB4HsbLR1EYJXluQ&s")
+
+}   
 .gallery-page{
     background-color: antiquewhite;
 }
