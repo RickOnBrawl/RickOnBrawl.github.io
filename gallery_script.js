@@ -4,3 +4,9 @@ const imageGallery = [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo52HnPiUPXW9aI1yXmsx6uxPsYPhJTvesMQ&s"
 
 ]
+
+const imageElement = document.getElementById("gallery-image");
+const prevButton = document.getElementById("prev-btn");
+const nextButton = document.getElementById("next-btn");
+
+let currentImgIndex = 0;
